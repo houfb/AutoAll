@@ -7,4 +7,4 @@ A tool soft to manage process, for web, more used as a WebUpdater.
   
 But MD files above may be outdated, the newest doc is in every release package.
 
-Happy coding!​ Any problems or for a long license, contact me via email or QQ which on my homepage! 
+Happy coding!​ Any problems or for a long license, contact me via email or QQ on my homepage! 
